@@ -2,6 +2,19 @@
   "name": "@illustrix/shared-configs",
   "module": "index.ts",
   "type": "module",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "Illustrix",
+    "url": "https://github.com/illustrix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illustrix/shared-configs.git"
+  },
   "exports": {
     "./biome": "./biome.json"
   },
